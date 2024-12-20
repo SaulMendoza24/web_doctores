@@ -1,3 +1,5 @@
 datos importantes sobre cambios
 el proyecto se tiene planeado tener 
 las bases listas para fin del año 2024
+se tendra listo el front con back ya conectado
+a la base de datos
